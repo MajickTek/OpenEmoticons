@@ -280,6 +280,6 @@ Typable:
 &:-| Donald J. Trump 5
 &:-* Donald J. Trump 6
 
-Non-Typable (Lenny Face Collection/LennyFaces.net):
+Non-Typable (Lenny Face Collection/LennyFaces.net): See LennyFaces.txt .
 
 
