@@ -1,4 +1,3 @@
-Original Common Emojis/Acronyms (Original Open Standard):
 #:-) Smiling with a fur hat
 %- ) Confused or merry
 %-( Confused and unhappy
@@ -264,17 +263,3 @@ X Kiss
 X! Typical Woman
 Y! Typical Man
 YBS You’ll be Sorry
-
-Newly Created Emojis/Acronyms (Seperate Open Standard):
-
-Typable:
-5:-) Donald J. Trump 1
-5:-| Donald J. Trump 2
-5:-* Donald J. Trump 3
-&:-) Donald J. Trump 4
-&:-| Donald J. Trump 5
-&:-* Donald J. Trump 6
-
-Non-Typable (Lenny Face Collection/LennyFaces.net): See LennyFaces.txt .
-
-
