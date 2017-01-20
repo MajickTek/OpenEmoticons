@@ -3,7 +3,7 @@ A big list of text emojis/acronyms in the texting language
 
 All emojis are non-unicode characters. *Only exception being the Lenny Face Collection.*
 
-# The List
+# The Lists
 
 *NOTICE: Duplicates of emojis are allowed, as they could represent different things.*
 
