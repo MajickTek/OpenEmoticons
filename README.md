@@ -1,5 +1,5 @@
 # OpenTextEmoji
-A big list of text emojis/words in the texting language
+A big list of text emojis/acronyms in the texting language
 
 # The List
 
