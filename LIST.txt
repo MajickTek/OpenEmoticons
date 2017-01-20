@@ -1,4 +1,6 @@
-This list is (C) Majick Tek. 262 lines in total.
+This list is (C) Majick Tek.
+
+Original 262 Emojis/Abbreviations:
 #:-) Smiling with a fur hat
 %- ) Confused or merry
 %-( Confused and unhappy
@@ -261,3 +263,6 @@ X Kiss
 X! Typical Woman
 Y! Typical Man
 YBS You’ll be Sorry
+
+Newly Created (Seperate) Emojis/Abbreviations:
+
