@@ -269,10 +269,14 @@ YBS You’ll be Sorry
 
 Newly Created (Seperate) Emojis/Acronyms:
 
+Typable:
 5:-) Donald J. Trump 1
 5:-| Donald J. Trump 2
 5:-* Donald J. Trump 3
 &:-) Donald J. Trump 4
 &:-| Donald J. Trump 5
 &:-* Donald J. Trump 6
+
+Non-Typable (Lenny Face Collection/LennyFaces.org):
+
 
