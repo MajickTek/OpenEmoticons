@@ -250,7 +250,7 @@ U You
 U2 You Too
 U4E Yours For Ever
 UR You are
-URT1 Your are the one
+URT1 You are the one
 W4u Waiting for you
 W8 Wait…
 WAG Wild ass guess
