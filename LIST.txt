@@ -12,18 +12,18 @@ Original 262 Emojis/Abbreviations:
 (:::X:::) Plaster /Elastoplast
 ******@* Cenitpede wearing a sombrero
 *<|:o)> Santa Claus
-/: – | Unamused, mildly cross
+/:–| Unamused, mildly cross
 /\(00)/\ Spider
-: – )… Drooling
-: – 7 Smirk
-: – D Grinning
-:’ ) Happy and crying
-: @ Shouting
+:–)… Drooling
+:–7 Smirk
+:–D Grinning
+:’) Happy and crying
+:@ Shouting
 :-# Razes
 :( Sad, without nose
 :’-( Crying
 :-( Sad
-:-( ) Shocked
+:-() Shocked
 :-(0) Shouting
 :) Smiling without a nose
 :-) Smiling
@@ -74,13 +74,16 @@ Original 262 Emojis/Abbreviations:
 }:-( Toupee blowing in the wind
 <:-| Monk / Nun
 <|-) Chinese
-<3 A love heart =(_8^(1) Homer Simpson =|:-)= Uncle Sam >: – ( Angry, yet sad
->: -| Cross
+<3 A love heart 
+=(_8^(1) Homer Simpson 
+=|:-)= Uncle Sam 
+>:–( Angry, yet sad
+>:-| Cross
 >:-( Very angry
 >:-@! Angry and swearing
 >@@@@8^) Marge Simpson
 ><:> A Turkey
->>: -) A Klingon
+>>:-) A Klingon
 >8-D Evil crazed laughter
 2bctnd To be continued
 2d4 To die for
