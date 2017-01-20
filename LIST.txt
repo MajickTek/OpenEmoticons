@@ -277,6 +277,6 @@ Typable:
 &:-| Donald J. Trump 5
 &:-* Donald J. Trump 6
 
-Non-Typable (Lenny Face Collection/LennyFaces.org):
+Non-Typable (Lenny Face Collection/LennyFaces.net):
 
 
