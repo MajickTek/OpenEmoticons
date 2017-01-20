@@ -1,6 +1,6 @@
 This list is (C) Majick Tek.
 
-Original 266 Emojis/Acronyms:
+Original Common Emojis/Acronyms (Original Collection/Open Standard):
 #:-) Smiling with a fur hat
 %- ) Confused or merry
 %-( Confused and unhappy
@@ -267,7 +267,7 @@ X! Typical Woman
 Y! Typical Man
 YBS You’ll be Sorry
 
-Newly Created (Seperate) Emojis/Acronyms:
+Newly Created Emojis/Acronyms (Seperate Open Standard):
 
 Typable:
 5:-) Donald J. Trump 1
