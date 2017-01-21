@@ -1,7 +1,7 @@
 # OpenTextEmoji
 A big list of text emojis/acronyms in the texting language
 
-All emojis are non-unicode characters. *Only exception being the Lenny Face Collection.*
+All emojis are non-unicode characters.
 
 # The Lists
 
