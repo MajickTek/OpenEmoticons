@@ -15,3 +15,5 @@ All emojis are non-unicode characters.
 - After officially submitted, goes into SEPERATE_OPEN_STANDARD.txt
 - Eventually may go to EXTENDED_OPEN_STANDARD.txt
 - ORIGINAL_OPEN_STANDARD.txt can only be added to/modified officially by the owner of the main repo (or fork)
+
+Items might never go to the Extended Open Standard (EXTENDED_OPEN_STANDARD.txt).
