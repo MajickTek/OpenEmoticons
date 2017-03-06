@@ -1,4 +1,4 @@
 These lists are Open Source and non-copyrighted. Any use of the Original Open Standard MUST be credited.
 Any use of the Seperate Open Standard may be credited, but it is not necessary, as they are not official.
-Suggestions for the Open Standard are taken into account.They go first into For Submission, than the Seperate Open Standard, than (maybe) the full Open Standard. Usage of Unicode is discouraged, as these lists are non-Unicode (To look the same on every device/OS).
+Suggestions for the Open Standard are taken into account. They go first into For Submission, than the Seperate Open Standard, than (maybe) the Extended Open Standard. Usage of Unicode is discouraged, as these lists are non-Unicode (To look the same on every device/OS).
 NOT responsible for any offenses made by the people who created these emojis/acronyms.
