@@ -1,4 +1,4 @@
-# OpenTextEmoji
+# OpenEmoticons
 A big list of text emojis/acronyms in the texting language
 
 All emojis are non-unicode characters.
