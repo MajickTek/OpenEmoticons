@@ -1,5 +1,5 @@
 # OpenEmoticons
-A big list of text emojis/acronyms in the texting language
+A big list of Emoticons/acronyms in the texting language
 
 All emojis are non-unicode characters.
 
